@@ -1,7 +1,9 @@
-Can let all apps use force dark mode in MIUI 13.
+This module can let all apps use force dark mode in MIUI 13.
 
-For now, it can just use for first install to get current app list.
+You have to reboot or reinstall this module to load new install app and reboot again to apply the new list in your system because of Magisk limit. 
 
-If want to add new app, you need to remove the module and install again.
+(I won't keep a script to monitor what app you install by anytime, only on boot do)
 
-Test on my Mi 12 Pro MIUI 13.0.16.
+If you want to load new installed app by reboot two times, you have at least wait for one minute for the second reboot.
+
+Welcome branch to let this module more useful.
